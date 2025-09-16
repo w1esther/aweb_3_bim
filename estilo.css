@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(248, 202, 209);
+}
+
+.retangulo {
+    background-color: rgb(223, 126, 165);
+    width: 450px;
+    height: 650px;
+    position: relative;
+    top: 25px;
+    left: 500px;
+    border-radius: 10px;
+    border: 10px solid rgb(198, 100, 144)
+}
+ 
+h1 {
+    position: relative;
+    top: 20px;
+    left: -25px;
+}
+
+.retangulo2 {
+    font-family: "VT323", monospace;
+    font-size: 22px;
+    color: aliceblue;
+    text-align: center;
+    /* position: relative;
+    top: -500px; */
+    text-shadow: 
+    0 0 5px #a9456c,
+    0 0 10px #f49cbe,
+    0 0 20px #f49cbe;
+    height: 100px;
+    width: 400px;
+    background-color: #f49cbe;
+    position: relative;
+    top: -645px;
+    left: 535px;
+    border-radius: 20px 20px 0 0;
+}
+
+#icone1 {
+    position: relative;
+    top: -55px;
+    left: 150px;
+}
