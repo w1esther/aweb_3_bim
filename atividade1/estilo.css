@@ -41,10 +41,87 @@ h1 {
     top: -645px;
     left: 535px;
     border-radius: 20px 20px 0 0;
+    box-shadow: 
+        0 0 10px rgb(222, 127, 176),
+        0 0 10px rgb(156, 70, 114),
+        0 0 20px rgb(156, 70, 114);
 }
 
 #icone1 {
     position: relative;
     top: -55px;
     left: 150px;
+}
+
+h2 {
+    position: relative;
+    top: 110px;
+    text-align: center;
+    font-family: "VT323", monospace;
+    font-size: 32px;
+    color: aliceblue;
+}
+
+.retangulo3 {
+    height: 380px;
+    width: 400px;
+    background-color: rgb(247, 146, 182);
+    position: relative;
+    top: -530px;
+    left: 538px;
+    box-shadow: 
+        0 0 10px rgb(222, 127, 176),
+        0 0 10px rgb(156, 70, 114),
+        0 0 20px rgb(156, 70, 114);
+}
+
+.retangulo4 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 180, 213);
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border-radius: 10px;
+    
+}
+
+.retangulo5 {
+    width: 200px;
+    height: 20px;
+    background-color: rgb(255, 180, 213);
+    position: relative;
+    left: 185px;
+    top: -120px;
+    border-radius: 5px;
+}
+
+.p1 {
+    font-family: "VT323", monospace;
+    font-size: 28px;
+    color: aliceblue;
+    position: relative;
+    top: -40px;
+}
+
+#retangulo6 {
+    position: relative;
+    top: -85px;
+    height: 25px;
+}
+
+.retangulo7 {
+    width: 350px;
+    height: 20px;
+    background-color: rgb(255, 180, 213);
+    position: relative;
+    left: 25px;
+    top: -50px;
+    border-radius: 15px;
+}
+
+#p2 {
+    position: relative;
+    top: -100px;
+    left: 240px;
 }
