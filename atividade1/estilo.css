@@ -19,13 +19,13 @@ body {
  
 h1 {
     position: relative;
-    top: 20px;
+    top: 35px;
     left: -25px;
 }
 
 .retangulo2 {
-    font-family: "VT323", monospace;
-    font-size: 22px;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 14px;
     color: aliceblue;
     text-align: center;
     /* position: relative;
@@ -38,7 +38,7 @@ h1 {
     width: 400px;
     background-color: #f49cbe;
     position: relative;
-    top: -645px;
+    top: -635px;
     left: 535px;
     border-radius: 20px 20px 0 0;
     box-shadow: 
@@ -49,16 +49,16 @@ h1 {
 
 #icone1 {
     position: relative;
-    top: -55px;
-    left: 150px;
+    top: -20px;
+    left: 160px;
 }
 
 h2 {
     position: relative;
-    top: 110px;
+    top: 120px;
     text-align: center;
-    font-family: "VT323", monospace;
-    font-size: 32px;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 22px;
     color: aliceblue;
 }
 
@@ -113,7 +113,7 @@ h2 {
 .retangulo7 {
     width: 350px;
     height: 20px;
-    background-color: rgb(255, 180, 213);
+    background: linear-gradient(to right,rgb(255, 180, 213) 40%,rgb(212, 121, 168)30% );
     position: relative;
     left: 25px;
     top: -50px;
@@ -124,4 +124,63 @@ h2 {
     position: relative;
     top: -100px;
     left: 240px;
+}
+
+#p3 {
+    font-size: 22px;
+    position: relative;
+    top: -50px;
+    left: 50px;
+}
+
+.icones {
+    color: #efe6e9;
+    text-shadow: 
+        0 0 10px rgb(222, 127, 176),
+        0 0 10px rgb(156, 70, 114),
+        0 0 20px rgb(156, 70, 114);
+}
+
+#icone2 {
+    position: relative;
+    top: -55px;
+    left: 50px;
+}
+
+#icone3 {
+    position: relative;
+    top: -55px;
+    left: 110px;
+}
+
+.p4 {
+    font-size: 60px;
+    font-weight: 900px;
+    position: relative;
+    top: -175px;
+    left: 270px;
+}
+
+.pacman {
+    height: 130px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border-radius: 5px;
+}
+
+.back {
+    position: relative;
+    left: 10px;
+    top: -92px;
+    color: #efe6e9;
+    font-family: "VT323", monospace;
+}
+
+.esther {
+    position: relative;
+    top: -60px;
+    left: 10px;
+    color: #efe6e9;
+    font-family: "VT323", monospace;
 }
