@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  background: #eee;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3498db;
+}
+
